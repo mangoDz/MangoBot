@@ -1,0 +1,14 @@
+{
+  "name": "MangoBotPro",
+  "version": "Beta 0.0.1",
+  "description": "In development",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yooofong, mango",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
