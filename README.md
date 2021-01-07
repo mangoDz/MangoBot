@@ -7,6 +7,8 @@ A MangoBot
 
 MangoBot is a fun personal bot for myself, and friends. This github will be being public for a while and then private the next second, which might be because we are testing the software
 
+#THE MINECRAFT CHRISTIAN SERVER VERSION IS AN NSFW VERSION OF THE MAIN BRANCH
+
 
 If you want to run this, you can run the main.js in VSCode. Make sure to have your token in config.json. Do not mess with the node modules, package.json because even we dont know what they do.
 
@@ -15,9 +17,9 @@ If you want to run this, you can run the main.js in VSCode. Make sure to have yo
 
 Open Terminal, and then type cd, put a space and then drag the MangoBot folder into the terminal window
 
-## FOR WINDOWS 
+## FOR WINDOWS
 
-coming soon 
+coming soon
 
 ## FOR LINUX
 
