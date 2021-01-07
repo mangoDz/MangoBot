@@ -9,3 +9,16 @@ MangoBot is a fun personal bot for myself, and friends. This github will be bein
 
 
 If you want to run this, you can run the main.js in VSCode. Make sure to have your token in config.json. Do not mess with the node modules, package.json because even we dont know what they do.
+
+
+## FOR MAC
+
+Open Terminal, and then type cd, put a space and then drag the MangoBot folder into the terminal window
+
+## FOR WINDOWS 
+
+coming soon 
+
+## FOR LINUX
+
+coming soon
