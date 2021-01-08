@@ -28,7 +28,7 @@ client.on('message',message =>{
     const command = args.shift().toLowerCase();
 
     if(command === 'hi'){
-        message.channel.send('Hey there!')
+        message.channel.send('no')
 
     }
 
@@ -45,19 +45,15 @@ client.on('message',message =>{
     if(command === 'commands'){
         message.channel.send('Send +help for commands')
     }else if (command == 'leave'){
-        message.channel.send('No u')
+        message.channel.send('no')
     }else if (command == 'music'){
-        message.channel.send('Music recommendations will be availible soon.')
+        message.channel.send('no')
     }else if (command == 'invite'){
-        message.channel.send('Invite me to another server! bit.ly/yooofongbot')
+        message.channel.send('no')
     }else if (command == 'help'){
         message.channel.send('Music, facereveal, pingmango, youtube, die, roll-food, ')
-    }else if (command == 'facereveal'){
-        message.channel.send(':zany_face: <- obviously my face')
     }else if (command == 'pingmango'){
-        message.channel.send('#no-ping-technology. See?')
-    }else if (command == 'youtube'){
-        message.channel.send('https://www.youtube.com/')
+        message.channel.send('la la la la laaa')
     }else if (command == 'die'){
         message.channel.send('no')
     }else if (command === 'roll-food') {
