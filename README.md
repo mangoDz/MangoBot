@@ -23,6 +23,6 @@ coming soon
 
 coming soon
 
-##UPDATE
+## UPDATE
 
 We will be working on an application with all of these features, and all you have to do is input your own token, choose your prefix, and press start. We are still working on the application, and we will be thankful to any contributions.
