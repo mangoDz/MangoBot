@@ -18,7 +18,8 @@ for(const file of commandFiles){
 }
 
 client.once('ready', () => {
-    console.log('Bot is online');
+    console.log('MangoBot is online!');
+    client.user.setActivity('Mango Ltd.')
 });
 
 client.on('message',message =>{
